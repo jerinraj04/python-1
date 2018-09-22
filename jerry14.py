@@ -1,7 +1,7 @@
 print("Enter 'x' for exit.")
-string1 = input("Enter first string: ")
+string 1 = input("Enter first string: ")
 if string1 == 'x':
-    exit();
+    exit()
 else:
     string2 = input("Enter second string: ")
     if string1 == string2:
