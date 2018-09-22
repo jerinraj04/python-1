@@ -1,5 +1,5 @@
-string1=raw_input("Enter first string:")
-string2=raw_input("Enter second string:")
+string1=raw input("Enter first string:")
+string2=raw input("Enter second string:")
 count1=0
 count2=0
 for i in string1:
