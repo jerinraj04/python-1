@@ -1,4 +1,4 @@
-n=int(input("Enter a number: "))
+n=int(input("enter a number: "))
 a=[]
 for i in range(1,n+1):
     print(i,sep=" ",end=" ")
@@ -6,5 +6,4 @@ for i in range(1,n+1):
         print("+",sep=" ",end=" ")
     a.append(i)
 print("=",sum(a))
- 
 print()
