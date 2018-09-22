@@ -9,4 +9,3 @@ print("The number of digits is:")
 print(count1)
 print("The number of characters is:")
 print(count2)
-Program Explanation
